@@ -12,3 +12,8 @@ Disciplina enfocada en el desarrollo de la capacidad muscular para generar tensi
 - Realiza ejercicios básicos como sentadillas, press, peso muerto y dominadas.
 - Aplica el principio de sobrecarga progresiva: aumenta gradualmente el peso o la dificultad.
 - Descansa entre series según el objetivo (fuerza máxima: 2–5 min; hipertrofia: 30–90 seg).
+
+## Consejos
+- Prioriza la técnica antes de aumentar la carga para evitar lesiones.
+- Programa sesiones equilibradas que trabajen todos los grupos musculares.
+- Registra tus cargas y repeticiones para monitorear el progreso.
