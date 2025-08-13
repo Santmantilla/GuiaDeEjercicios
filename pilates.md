@@ -12,3 +12,8 @@ Método de ejercicio centrado en el control corporal, la respiración y el forta
 - Realiza movimientos lentos y precisos.
 - Mantén el abdomen activado en todo momento.
 - Respira de forma rítmica y consciente.
+
+## Consejos
+- Comienza con clases guiadas para aprender la técnica.
+- Evita compensaciones musculares.
+- Enfócate en calidad, no cantidad de repeticiones.
