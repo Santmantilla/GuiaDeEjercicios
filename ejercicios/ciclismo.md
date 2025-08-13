@@ -7,3 +7,8 @@ Actividad cardiovascular sobre bicicleta que fortalece piernas y mejora la resis
 - Mejora la salud cardiovascular.
 - Fortalece glúteos, cuádriceps y pantorrillas.
 - Reduce el impacto en articulaciones.
+
+## Instrucciones
+- Ajusta la bicicleta a tu altura y postura.
+- Mantén una cadencia constante y controlada.
+- Hidrátate antes, durante y después del ejercicio.
