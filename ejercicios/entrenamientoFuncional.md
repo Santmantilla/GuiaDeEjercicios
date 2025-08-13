@@ -12,3 +12,8 @@ Ejercicios que simulan movimientos cotidianos para mejorar fuerza, coordinación
 - Alterna ejercicios de empuje, tracción y rotación.
 - Usa tu peso corporal o implementos como balones, bandas o kettlebells.
 - Prioriza la técnica sobre la intensidad.
+
+## Consejos
+- Evalúa tu movilidad antes de iniciar.
+- Adapta los ejercicios a tu nivel físico.
+- Incorpora patrones de movimiento variados.
