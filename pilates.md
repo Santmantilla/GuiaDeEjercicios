@@ -7,3 +7,8 @@ Método de ejercicio centrado en el control corporal, la respiración y el forta
 - Mejora la postura y alineación corporal.
 - Fortalece músculos profundos.
 - Aumenta la conciencia corporal.
+
+## Instrucciones
+- Realiza movimientos lentos y precisos.
+- Mantén el abdomen activado en todo momento.
+- Respira de forma rítmica y consciente.
