@@ -7,3 +7,8 @@ Entrenamiento de alta intensidad que combina fuerza, cardio y funcionalidad.
 - Aumenta fuerza y resistencia.
 - Mejora la composición corporal.
 - Fomenta el trabajo en equipo y la motivación.
+
+## Instrucciones
+- Aprende los movimientos básicos (squat, deadlift, press).
+- Escala los ejercicios según tu nivel.
+- Prioriza la técnica antes de aumentar la carga.
